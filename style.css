@@ -266,3 +266,6 @@ button[type=submit], select{
         color: red;
         text-align: center;
 }
+small{
+    color: white;
+}
